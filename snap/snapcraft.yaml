@@ -1,6 +1,6 @@
 name: dnstap-gael
 base: core24
-version: 'v0.4.0-core24'
+version: 'v0.4.0-20260510'
 summary: Dnstap - Flexible, structured event replication format for DNS servers
 description: |
   dnstap implements an encoding format for DNS server events. It uses a
