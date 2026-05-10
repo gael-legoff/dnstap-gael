@@ -38,6 +38,9 @@ textual format logging.
 
 `sudo snap restart knot-resolver-gael.kresd`
 
+**2026-05-10**
+* Go updated to v1.26.2
+
 **2024-11-17**
 * Switched to core24 to follow knot-resolver-gael
 
